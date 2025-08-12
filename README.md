@@ -1,6 +1,11 @@
 ZSSRichTextEditor
 =============
 
+Compatibility fix
+---
+Bumped pod file to enable compatibility with later versions of iOS (18.0+)
+
+
 The Editor
 ---
 
